@@ -1,6 +1,6 @@
 # wintershipTask
 
-How to initialize: <br/>
+<b>How to initialize:</b> <br/>
 Download using git clone. <br/>
 Run Gradle Build. <br/>
 Run Main class. <br/>
